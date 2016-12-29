@@ -1,11 +1,12 @@
-# yes
+# MU直播
 
 > 'first vue project'
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+#  项目开始 步骤
+
 npm install
 
 # serve with hot reload at localhost:8080
@@ -21,6 +22,7 @@ npm run unit
 npm run e2e
 
 # run all tests
+
 npm test
 ```
 
